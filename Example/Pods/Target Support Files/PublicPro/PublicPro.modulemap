@@ -1,0 +1,6 @@
+framework module PublicPro {
+  umbrella header "PublicPro-umbrella.h"
+
+  export *
+  module * { export * }
+}

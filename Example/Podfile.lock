@@ -1,0 +1,16 @@
+PODS:
+  - PublicPro (0.1.0)
+
+DEPENDENCIES:
+  - PublicPro (from `../`)
+
+EXTERNAL SOURCES:
+  PublicPro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PublicPro: 5ccd5019693f9476f96a87abc646672d22c36789
+
+PODFILE CHECKSUM: d9895c1aa2ed6b9fc6b3ec9e625b919e85abc860
+
+COCOAPODS: 1.5.3
