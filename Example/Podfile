@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PublicPro_Example' do
+  pod 'PublicPro', :path => '../'
+
+  target 'PublicPro_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
